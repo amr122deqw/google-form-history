@@ -1,3 +1,27 @@
+// FB_PUBLIC_LOAD_DATA_ のデータ構造
+export type GoogleFormData = any[]; // トップレベルの配列は非常に複雑なため、any[]のままにする
+
+export interface GoogleFormPayload extends GoogleFormData {
+  1: [any, GoogleFormItemData[]];
+  // フォームのタイトル
+  3: string;
+  // フォームのパス
+  14: string;
+}
+
+export type GoogleFormItemData = [
+  string, // id
+  string, // 見出し
+  string, // ラベル
+  any,
+  GoogleFormQuestionDetail[]
+];
+
+export type GoogleFormQuestionDetail = [
+  number, // answerId
+  string[][] // 選択肢（例：[['選択肢1'], ['選択肢2']]）
+];
+
 // formId をキーにしたフォームデータ
 export type LocalForms = Record<string, Form>;
 

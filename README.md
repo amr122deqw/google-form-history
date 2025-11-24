@@ -1,11 +1,11 @@
 # google-form-history
 
-Google フォームの回答履歴をあとから確認できるようにする Google Chrome 拡張機能です．
+Google フォームの回答履歴をあとから確認できるようにする Google Chrome 拡張機能
 
 
 ## 使い方
 
-1. Release から zip ファイルをダウンロードする．
+1. [Releases](https://github.com/inaniwaudon/google-form-history/releases) から zip ファイルをダウンロードする．
 1. <chrome://extension> を開き，デベロッパーモードを有効にした上で，zip ファイルをドラッグ&ドロップして拡張機能を追加する．
 2. Google フォームを回答する．
 3. 拡張機能のアイコンをクリックすると，回答履歴が表示される．
@@ -34,6 +34,6 @@ Google フォームの回答履歴をあとから確認できるようにする 
 
 ## ライセンス・注意事項
 
-本ソースコードを [MIT ライセンス](./LICENSE)の下に頒布します．
+Copyright (c) 2025 いなにわうどん. This extension is released under the MIT License, see [LICENSE](./LICENSE).
 
 **注意事項：本拡張機能の動作に関する正確性や完全性について，一切の保証をいたしかねます．**
