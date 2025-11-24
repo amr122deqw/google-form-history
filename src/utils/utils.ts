@@ -8,7 +8,7 @@ export const getFormId = (path: string) => {
 export const answerToString = (answer: Answer) => {
   switch (answer.type) {
     case "text":
-      return answer.value.join("，");
+      return answer.value.join(", ");
     case "date":
       const month = answer.month.toString().padStart(2, "0");
       const day = answer.day.toString().padStart(2, "0");

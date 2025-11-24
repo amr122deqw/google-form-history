@@ -2,7 +2,6 @@ import {
   Form,
   GoogleFormPayload,
   GoogleFormItemData,
-  GoogleFormQuestionDetail,
   Item,
   Question,
 } from "@/utils/types";
